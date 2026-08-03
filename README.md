@@ -6,10 +6,10 @@ End-to-end healthtech platform built from scratch for appointment booking, live 
 CareQ is a full-stack healthcare platform built to reduce patient waiting time and improve appointment and queue management across patients, doctors, and administrators.
 
 The product was developed as a connected ecosystem consisting of a patient-facing mobile application, doctor-side web application, backend services, real-time queue workflows, payments, prescriptions, and administrative controls.
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/762518cf-0d0c-4e2b-8959-d0abde701742" />
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/095d2274-26da-4f01-9fb6-16f964cb7a04" />
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/e9ace028-f4ee-4367-9be5-ef142a32b879" />
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/f4ad2a0f-b5c8-43e0-96d4-b205101c40ed" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/762518cf-0d0c-4e2b-8959-d0abde701742" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/095d2274-26da-4f01-9fb6-16f964cb7a04" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e9ace028-f4ee-4367-9be5-ef142a32b879" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/f4ad2a0f-b5c8-43e0-96d4-b205101c40ed" />
 
 
 ## Product Overview

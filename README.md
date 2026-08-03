@@ -1,4 +1,4 @@
-# careq-healthtech-platform-case-study
+# Careq-healthtech-platform-case-study
 End-to-end healthtech platform built from scratch for appointment booking, live queue management, doctor operations, payments, prescriptions, and real-time coordination.
 
 # CareQ — Real-Time HealthTech Platform
@@ -6,6 +6,11 @@ End-to-end healthtech platform built from scratch for appointment booking, live 
 CareQ is a full-stack healthcare platform built to reduce patient waiting time and improve appointment and queue management across patients, doctors, and administrators.
 
 The product was developed as a connected ecosystem consisting of a patient-facing mobile application, doctor-side web application, backend services, real-time queue workflows, payments, prescriptions, and administrative controls.
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/762518cf-0d0c-4e2b-8959-d0abde701742" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/095d2274-26da-4f01-9fb6-16f964cb7a04" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/e9ace028-f4ee-4367-9be5-ef142a32b879" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/f4ad2a0f-b5c8-43e0-96d4-b205101c40ed" />
+
 
 ## Product Overview
 
@@ -45,6 +50,9 @@ The mobile application allows patients to:
 - Receive appointment and queue updates
 - Access prescriptions and consultation information
 - Navigate through a responsive mobile experience
+
+### Demo Video Url : https://www.upwork.com/att/download/portfolio/persons/uid/1957485115732395726/profile/projects/files/15df3fed-4527-4287-92e4-8567f875eff9
+### Demo Video Url 2 :https://www.upwork.com/att/download/portfolio/persons/uid/1957485115732395726/profile/projects/files/76c4dd58-d400-44af-acf1-11cfbfc96b6f
 
 ### Doctor Web Application
 
